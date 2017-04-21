@@ -4,9 +4,11 @@
   "description": "Set of javascript helper functions",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
   "scripts": {
-    "test": "npm test"
+    "test": "mocha **/test/*test.js"
   },
   "keywords": [
     "helpers"
