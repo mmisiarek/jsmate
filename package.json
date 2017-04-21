@@ -1,0 +1,16 @@
+{
+  "name": "jsmate",
+  "version": "0.0.0",
+  "description": "Set of javascript helper functions",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "helpers"
+  ],
+  "author": "Michal Misiarek <michal@misiarek.pl>",
+  "license": "ISC"
+}
